@@ -12,7 +12,7 @@ _#freeCodeCamp JavaScript Algorithms and Data Structures Projects_
 
 ## Live Demo
 
-[Click To Play Online](https://eddking-qs.github.io/JavaScript-Mini_Project-Rock_Paper_Scissors_Game/)
+[Click To Play Online](https://quintin-dev.github.io/JavaScript-Mini_Project-Rock_Paper_Scissors_Game/)
 
 ## Features
 
